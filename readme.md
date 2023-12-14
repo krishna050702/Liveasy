@@ -30,7 +30,7 @@ This project is a basic replica of the Google search page, created using HTML fo
 
 You can see a live demo of the Google Clone
 
-![Google Clone Screenshot](./screenshot.png)
+![Google Clone Screenshot](./demo.png)
 
 ## Getting Started
 
